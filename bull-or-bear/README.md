@@ -15,11 +15,12 @@ For each test case, output PROFIT if Chef made a profit on the deal, LOSS if Che
 The checker is case-insensitive so answers like pROfiT, profit, and PROFIT would be considered the same.
 
 **Constraints**
-* 1 \leq T \leq 5001≤T≤500
-* 1 \leq X, Y \leq 1001≤X,Y≤100
+
+- 1 \leq T \leq 5001≤T≤500
+- 1 \leq X, Y \leq 1001≤X,Y≤100
 
 **Sample 1:**
-| Input                                 | Output                                  |
+| Input | Output |
 | ------------------------------------- | --------------------------------------- |
 | 4<br />4 2<br />8 8<br />3 4<br />2 1 | LOSS<br />NEUTRAL<br />PROFIT<br />LOSS |
 
